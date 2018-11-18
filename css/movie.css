@@ -1,0 +1,13 @@
+#moviecontainer {
+
+  width:1000px;
+  color:red;
+  height:auto;
+}
+
+#moviecontainer ul li {
+width:300px;
+float:left;
+color:red;
+list-style-type: none;
+}
